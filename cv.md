@@ -51,3 +51,25 @@ ___
     };
 
 ```
+___
+
+### Work Experience
+
+**Key Account Manager — TDM Electric**  
+*Aug 2025 — Present*
+
+- Strategic development of federal and regional DIY networks to increase brand presence
+
+---
+### Education
+
+- **Higher School of Economics** — Law (Bachelor’s, 2018–2022)
+- **Hexlet** — Frontend Development Program (2025–ongoing)
+- **Stepik** — Python Basics Course (2023)
+
+---
+### Languages
+
+- Russian — Native
+- Belarusian — Native
+- English — B2
