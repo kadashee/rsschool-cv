@@ -15,6 +15,7 @@ _________________________
 **telegram**: @kadashee
 
 [Github](github.com/kadashee)
+
 ___
 ### About me:
 I began my career in law and business development, but over time I became more interested in building digital products rather than managing processes. For the past two years, I’ve been focusing on transitioning into frontend development and I’m now completing Hexlet’s Frontend Developer program with hands-on experience in Vue and Nuxt.
