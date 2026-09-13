@@ -60,3 +60,18 @@ export const multiply = (a, b) => {
   return a * b
 }
 ```
+
+### Education
+
+**Higher School of Economics**
+Bachelor's Degree in Law, 2018–2022
+
+**RS School**
+JavaScript / Front-end — in progress
+
+### Languages
+
+Russian — Native  
+English — C1  
+German — A1
+
