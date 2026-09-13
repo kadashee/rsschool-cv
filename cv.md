@@ -38,3 +38,25 @@ Frontend Developer — Nov 2025–Present - **NDA**
 - Working with application state using Pinia  
 - Writing and maintaining E2E tests with Playwright and Cucumber  
 - Working with access control and permissions via CORS  
+
+### Projects
+
+**Nonprofit Organization Website**
+
+[ANO "Furry Paw"](https://furrypaw.ru)
+
+*Web application for an animal rescue nonprofit organization.*
+
+Stack: Nuxt, TypeScript, Tailwind CSS
+
+- Developed a website and supporting web functionality for a nonprofit organization
+- Integrated payment flow into website
+- Adapted SEO
+
+### Code Examples
+
+```
+export const multiply = (a, b) => {
+  return a * b
+}
+```
